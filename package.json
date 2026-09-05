@@ -1,0 +1,13 @@
+{
+  "name": "@mrbenty8jf1p9y5/tp-state-hc3-0905",
+  "version": "0.0.6",
+  "description": "Owned TP first-use TOFU discriminator A",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neve-larsson/tp-tofu-hc3-0905.git"
+  },
+  "files": [
+    "index.js"
+  ]
+}
